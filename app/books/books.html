@@ -1,0 +1,13 @@
+<div class="row books">
+    
+    <div ng-repeat="book in books">
+        <div class="col-md-4">
+            <h3>{{ book.title }}</h3>
+            <img ng-src="img/{{ book.imageUrl }}"/>
+            <h4>{{ book.price | currency }}</h4>
+            <a class="btn btn-primary btn-block" href="#/books/{{book.id}}">Details</a>
+        </div>
+    </div>
+
+
+</div>

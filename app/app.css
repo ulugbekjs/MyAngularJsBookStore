@@ -1,0 +1,20 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+
+.books {
+	text-align: center;
+}
+
+.books a{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.book-detail{
+    text-align: left;
+}

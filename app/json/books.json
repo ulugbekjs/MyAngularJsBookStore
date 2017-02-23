@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Angularjs by examples",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "John Doe",
+        "publisher": "Orelly, 2015",
+        "ISBN":"1430264489",
+        "length":"688 pages",
+        "price": "24.33",
+        "imageUrl": "angularjs-by-exmaples.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Angularjs directives",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "John Doe",
+        "publisher": "Orelly, 2015",
+        "ISBN":"1430264489",
+        "length":"688 pages",
+        "price": "12.00",
+        "imageUrl": "angularjs-directives.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Angularjs in action",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "John Doe",
+        "publisher": "Orelly, 2015",
+        "ISBN":"1430264489",
+        "length":"688 pages",
+        "price": "46.99",
+        "imageUrl": "angularjs-in-action.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Angularjs test driven dev",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "John Doe",
+        "publisher": "Orelly, 2015",
+        "ISBN":"1430264489",
+        "length":"688 pages",
+        "price": "28.00",
+        "imageUrl": "angularjs-tdd.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Angularjs UI Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "John Doe",
+        "publisher": "Orelly, 2015",
+        "ISBN":"1430264489",
+        "length":"688 pages",
+        "price": "14.40",
+        "imageUrl": "angularjs-ui-dev.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Pro Angularjs",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "John Doe",
+        "publisher": "Orelly, 2015",
+        "ISBN":"1430264489",
+        "length":"688 pages",
+        "price": "35.50",
+        "imageUrl": "pro-angularjs.jpg"
+    }
+]
